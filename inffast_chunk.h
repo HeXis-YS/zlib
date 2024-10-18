@@ -32,6 +32,8 @@
    subject to change. Applications should only use zlib.h.
  */
 
+#include "zlib_simd.h"
+
 #include "inffast.h"
 
 /* INFLATE_FAST_MIN_INPUT:

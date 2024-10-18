@@ -49,6 +49,8 @@
 
 /* @(#) $Id$ */
 
+#include "zlib_simd.h"
+
 #include "deflate.h"
 
 const char deflate_copyright[] =

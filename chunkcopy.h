@@ -30,6 +30,8 @@
 #ifndef CHUNKCOPY_H
 #define CHUNKCOPY_H
 
+#include "zlib_simd.h"
+
 #include <stdint.h>
 #include "zutil.h"
 

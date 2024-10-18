@@ -20,6 +20,8 @@
   produced, so that this one source file can be compiled to an executable.
  */
 
+#include "zlib_simd.h"
+
 #ifdef HAS_PCLMUL
  #include "crc32_simd.h"
  #ifndef _MSC_VER

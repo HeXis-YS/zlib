@@ -63,6 +63,8 @@
  * of the adler s1 s2 of uint32_t type (see adler32.c).
  */
 
+#include "zlib_simd.h"
+
 #include "adler32_simd.h"
 
 /* Definitions from adler32.c: largest prime smaller than 65536 */

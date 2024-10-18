@@ -26,6 +26,8 @@
  * For conditions of distribution and use, see copyright notice in zlib.h
  */
 
+#include "zlib_simd.h"
+
 #include "zutil.h"
 #include "inftrees.h"
 #include "inflate.h"

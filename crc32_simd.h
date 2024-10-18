@@ -8,6 +8,7 @@
 #ifndef CRC32_SIMD_H 
 #define  CRC32_SIMD_H
 
+#include "zlib_simd.h"
 
 #include <stdint.h>
 
